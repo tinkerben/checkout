@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "lib": ["es2019"],
+    "module": "commonjs",
+    "target": "es2019",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "sourceMap": true,
+    "noImplicitAny": true /* Raise error on expressions and declarations with an implied 'any' type. */,
+    "strictNullChecks": true /* Enable strict null checks. */,
+    "resolveJsonModule": true,
+    "importHelpers": true, /* Import emit helpers from 'tslib'. */
+
+    "outDir": "./build" /* Redirect output structure to the directory. */,
+    "rootDir": "./" /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
+    "typeRoots": ["src/types", "node_modules/@types"]
+  },
+  "exclude": ["build", "node_modules"]
+}

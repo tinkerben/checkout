@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="3.923">
+  <testsuite name="Pricing Tests" errors="0" failures="0" skipped="0" timestamp="2020-11-08T14:24:54" time="2.446" tests="4">
+    <testcase classname="Pricing Tests Price Deal Tests Load Deal" name="Pricing Tests Price Deal Tests Load Deal" time="0.009">
+    </testcase>
+    <testcase classname="Pricing Tests Price Deal Tests Missing Deal" name="Pricing Tests Price Deal Tests Missing Deal" time="0">
+    </testcase>
+    <testcase classname="Pricing Tests moreForLess Deal Tests Load Deal" name="Pricing Tests moreForLess Deal Tests Load Deal" time="0.001">
+    </testcase>
+    <testcase classname="Pricing Tests moreForLess Deal Tests Missing Deal" name="Pricing Tests moreForLess Deal Tests Missing Deal" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="Customer Tests" errors="0" failures="0" skipped="0" timestamp="2020-11-08T14:24:56" time="0.093" tests="2">
+    <testcase classname="Customer Tests Load Customer" name="Customer Tests Load Customer" time="0.001">
+    </testcase>
+    <testcase classname="Customer Tests Missing Customer" name="Customer Tests Missing Customer" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="Product Tests" errors="0" failures="0" skipped="0" timestamp="2020-11-08T14:24:56" time="0.086" tests="2">
+    <testcase classname="Product Tests Load Product" name="Product Tests Load Product" time="0.001">
+    </testcase>
+    <testcase classname="Product Tests Missing Product" name="Product Tests Missing Product" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
