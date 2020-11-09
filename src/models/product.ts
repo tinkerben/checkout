@@ -1,4 +1,4 @@
-import { productLookup } from "./database/data"
+import { productLookup } from "../database/data"
 
 export class Product  {
     public code: string;

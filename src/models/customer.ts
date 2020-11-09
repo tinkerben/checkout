@@ -1,4 +1,4 @@
-import {customerLookup} from "./database/data";
+import {customerLookup} from "../database/data";
 
 export class Customer {
     public id: number;

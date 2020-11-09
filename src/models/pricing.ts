@@ -1,6 +1,6 @@
 import * as _ from "lodash";
-import {moreForLessDealLookup, priceDealLookup} from "./database/data";
-import {priceDealHandler} from "./priceDealHandler";
+import {moreForLessDealLookup, priceDealLookup} from "../database/data";
+import {priceDealHandler} from "../handlers/priceDealHandler";
 import {Product} from "./product";
 
 /**

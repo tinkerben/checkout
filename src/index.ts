@@ -1,5 +1,5 @@
-import {PricingRules} from "./pricing";
-import {CheckOut} from "./checkOut";
+import {PricingRules} from "./models/pricing";
+import {CheckOut} from "./models/checkOut";
 import * as readline from "readline";
 
 let rl = readline.createInterface({
